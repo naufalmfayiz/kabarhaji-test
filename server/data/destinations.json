@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Niladri Reservoir",
+    "slug": "niladri-reservoir",
+    "rating": 4.7,
+    "reviews": 2498,
+    "location": "Tekergat, Sunamganj",
+    "price_per_person": 59,
+    "currency": "USD",
+    "image_url": "https://example.com/images/niladri_reservoir.jpg",
+    "description": "You will get a complete travel package on the beaches. Packages in the form of airline tickets, recommended hotel rooms, transportation. Have you been on a holiday to the Greek ETC.",
+    "favorite": true,
+    "tags": ["reservoir", "scenic", "relaxing"],
+    "additional_images": [
+      "https://example.com/images/niladri_reservoir_1.jpg",
+      "https://example.com/images/niladri_reservoir_2.jpg",
+      "https://example.com/images/niladri_reservoir_3.jpg",
+      "https://example.com/images/niladri_reservoir_4.jpg",
+      "https://example.com/images/niladri_reservoir_5.jpg"
+    ]
+  },
+  {
+    "name": "Damdim Tea Estate",
+    "slug": "damdim-tea-estate",
+    "rating": 4.5,
+    "reviews": 95,
+    "location": "Darjeeling, West Bengal",
+    "price_per_person": 45,
+    "currency": "USD",
+    "image_url": "https://example.com/images/damdim_tea_estate.jpg",
+    "description": "A famous tea estate known for its lush green landscapes.",
+    "favorite": false,
+    "tags": ["tea estate", "green", "relaxing"],
+    "additional_images": [
+      "https://example.com/images/damdim_tea_estate_1.jpg",
+      "https://example.com/images/damdim_tea_estate_2.jpg",
+      "https://example.com/images/damdim_tea_estate_3.jpg"
+    ]
+  },
+  {
+    "name": "Saputara Hill Station",
+    "slug": "saputara-hill-station",
+    "rating": 4.8,
+    "reviews": 150,
+    "location": "Saputara, Gujarat",
+    "price_per_person": 65,
+    "currency": "USD",
+    "image_url": "https://example.com/images/saputara_hill_station.jpg",
+    "description": "A popular hill station with beautiful weather and serene environment.",
+    "favorite": true,
+    "tags": ["hill station", "scenic", "cool weather"],
+    "additional_images": [
+      "https://example.com/images/saputara_hill_station_1.jpg",
+      "https://example.com/images/saputara_hill_station_2.jpg",
+      "https://example.com/images/saputara_hill_station_3.jpg"
+    ]
+  },
+  {
+    "name": "Goa Beach",
+    "slug": "goa-beach",
+    "rating": 4.9,
+    "reviews": 3500,
+    "location": "Goa, India",
+    "price_per_person": 70,
+    "currency": "USD",
+    "image_url": "https://example.com/images/goa_beach.jpg",
+    "description": "A famous beach in Goa known for its vibrant nightlife and scenic beauty.",
+    "favorite": true,
+    "tags": ["beach", "nightlife", "scenic"],
+    "additional_images": [
+      "https://example.com/images/goa_beach_1.jpg",
+      "https://example.com/images/goa_beach_2.jpg",
+      "https://example.com/images/goa_beach_3.jpg"
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "slug": "ladakh",
+    "rating": 4.8,
+    "reviews": 2800,
+    "location": "Ladakh, India",
+    "price_per_person": 80,
+    "currency": "USD",
+    "image_url": "https://example.com/images/ladakh.jpg",
+    "description": "A high-altitude desert known for its stunning landscapes and monasteries.",
+    "favorite": true,
+    "tags": ["desert", "landscapes", "monasteries"],
+    "additional_images": [
+      "https://example.com/images/ladakh_1.jpg",
+      "https://example.com/images/ladakh_2.jpg",
+      "https://example.com/images/ladakh_3.jpg"
+    ]
+  },
+  {
+    "name": "Andaman Islands",
+    "slug": "andaman-islands",
+    "rating": 4.7,
+    "reviews": 2100,
+    "location": "Andaman and Nicobar Islands, India",
+    "price_per_person": 90,
+    "currency": "USD",
+    "image_url": "https://example.com/images/andaman_islands.jpg",
+    "description": "A group of islands known for their beaches, coral reefs, and marine life.",
+    "favorite": true,
+    "tags": ["islands", "beaches", "marine life"],
+    "additional_images": [
+      "https://example.com/images/andaman_islands_1.jpg",
+      "https://example.com/images/andaman_islands_2.jpg",
+      "https://example.com/images/andaman_islands_3.jpg"
+    ]
+  },
+  {
+    "name": "Kerala Backwaters",
+    "slug": "kerala-backwaters",
+    "rating": 4.6,
+    "reviews": 1800,
+    "location": "Kerala, India",
+    "price_per_person": 55,
+    "currency": "USD",
+    "image_url": "https://example.com/images/kerala_backwaters.jpg",
+    "description": "A network of canals and lakes in Kerala known for their serene beauty.",
+    "favorite": true,
+    "tags": ["backwaters", "serene", "lakes"],
+    "additional_images": [
+      "https://example.com/images/kerala_backwaters_1.jpg",
+      "https://example.com/images/kerala_backwaters_2.jpg",
+      "https://example.com/images/kerala_backwaters_3.jpg"
+    ]
+  },
+  {
+    "name": "Rajasthan Desert",
+    "slug": "rajasthan-desert",
+    "rating": 4.5,
+    "reviews": 1600,
+    "location": "Rajasthan, India",
+    "price_per_person": 60,
+    "currency": "USD",
+    "image_url": "https://example.com/images/rajasthan_desert.jpg",
+    "description": "A desert region in Rajasthan known for its forts, palaces, and camel safaris.",
+    "favorite": true,
+    "tags": ["desert", "forts", "camel safaris"],
+    "additional_images": [
+      "https://example.com/images/rajasthan_desert_1.jpg",
+      "https://example.com/images/rajasthan_desert_2.jpg",
+      "https://example.com/images/rajasthan_desert_3.jpg"
+    ]
+  },
+  {
+    "name": "Mysore Palace",
+    "slug": "mysore-palace",
+    "rating": 4.9,
+    "reviews": 3000,
+    "location": "Mysore, Karnataka",
+    "price_per_person": 50,
+    "currency": "USD",
+    "image_url": "https://example.com/images/mysore_palace.jpg",
+    "description": "A historic palace in Mysore known for its architectural beauty and cultural significance.",
+    "favorite": true,
+    "tags": ["palace", "historic", "cultural"],
+    "additional_images": [
+      "https://example.com/images/mysore_palace_1.jpg",
+      "https://example.com/images/mysore_palace_2.jpg",
+      "https://example.com/images/mysore_palace_3.jpg"
+    ]
+  },
+  {
+    "name": "Kashmir Valley",
+    "slug": "kashmir-valley",
+    "rating": 4.8,
+    "reviews": 2700,
+    "location": "Kashmir, India",
+    "price_per_person": 75,
+    "currency": "USD",
+    "image_url": "https://example.com/images/kashmir_valley.jpg",
+    "description": "A beautiful valley in Kashmir known for its stunning landscapes and pleasant weather.",
+    "favorite": true,
+    "tags": ["valley", "landscapes", "pleasant weather"],
+    "additional_images": [
+      "https://example.com/images/kashmir_valley_1.jpg",
+      "https://example.com/images/kashmir_valley_2.jpg",
+      "https://example.com/images/kashmir_valley_3.jpg"
+    ]
+  }
+]
